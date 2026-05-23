@@ -15,7 +15,6 @@ export default function HomePage() {
 
           <p className="mt-6 max-w-2xl text-lg text-slate-300 md:text-xl">
             Desde esta portada puedes abrir la Pokédex y la sección de Rick & Morty.
-            Así tu profesor entra a la URL principal y navega sin errores.
           </p>
         </div>
 
